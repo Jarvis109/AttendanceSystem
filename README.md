@@ -36,7 +36,7 @@ To get started with the Attendance System, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine using `git clone`.
 
 ```bash
-git clone https://github.com/Jarvis109/attendanceSystem.git
+git clone https://github.com/Jarvis109/AttendanceSystem.git
 ```
 
 2. **Explore the Code**: Browse the repository's codebase to find sample implementations, tutorials, and documentation.
